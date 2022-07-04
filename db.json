@@ -1,0 +1,29 @@
+{
+    "countries": [
+        {
+            "id":1,
+            "country_name": "India",
+            "city": "Delhi",
+            "population": 15
+        },
+        {
+            "id":2,
+            "country_name": "Sri Lanka",
+            "city": "Colombo",
+            "population": 10
+        },
+        {
+            "id":3,
+            "country_name": "USA",
+            "city": "New York",
+            "population": 13
+        }       
+    ],
+
+    "cities": [
+        {
+            "city_name": "India",
+            "population": 150000000
+        }
+    ]
+}
